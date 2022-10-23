@@ -1,0 +1,11 @@
+{
+  "seconds_between_scans": 60,
+  "domains": [
+    {
+      "name": "Google",
+      "url": "https://google.com/",
+      "discordWebhookUrl": "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "roleIdToMention": "1033772800198070345"
+    }
+  ]
+}

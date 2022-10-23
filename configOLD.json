@@ -1,0 +1,23 @@
+{
+  "seconds_between_scans": 5,
+  "domains": [
+    {
+      "name": "Sharesauce",
+      "url": "https://sharesauce.nl/",
+      "discordWebhookUrl": "https://discord.com/api/webhooks/1033772733747699822/FOnllRD2JmvT2OrwCnQfOpw3hN_OuRRoX7yf29rlqFBVWKLd0-Z4qUEVpuKG50gLHFRY",
+      "roleIdToMention": "1033772800198070345"
+    },
+    {
+      "name": "Sharefiles",
+      "url": "https://sharefiles.nl/",
+      "discordWebhookUrl": "https://discord.com/api/webhooks/1033772733747699822/FOnllRD2JmvT2OrwCnQfOpw3hN_OuRRoX7yf29rlqFBVWKLd0-Z4qUEVpuKG50gLHFRY",
+      "roleIdToMention": "1033772800198070345"
+    },
+    {
+      "name": "HSL green paper compare",
+      "url": "https://hsl-green-paper-compare.tk/",
+      "discordWebhookUrl": "https://discord.com/api/webhooks/1033772733747699822/FOnllRD2JmvT2OrwCnQfOpw3hN_OuRRoX7yf29rlqFBVWKLd0-Z4qUEVpuKG50gLHFRY",
+      "roleIdToMention": "1033772800198070345"
+    }
+  ]
+}
