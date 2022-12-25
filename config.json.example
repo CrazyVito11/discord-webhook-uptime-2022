@@ -5,6 +5,7 @@
       "name": "Google",
       "url": "https://google.com/",
       "discordWebhookUrl": "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "failedScanCountUntilNotification": 3,
       "roleIdToMention": "1033772800198070345"
     }
   ]
