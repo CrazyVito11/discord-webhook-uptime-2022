@@ -25,7 +25,7 @@ export function sendDomainGoneOfflineNotification(domain, error) {
         ]
     })
          .catch(() => {
-             console.error(`Unable to trigger the webhook for ${domain.name}`);
+             console.error(`  ⛔ Unable to trigger the Discord webhook for "${domain.name}" (${domain.url})`);
          });
 }
 
@@ -56,6 +56,6 @@ export function sendDomainBackOnlineNotification(domain) {
         ]
     })
          .catch(() => {
-             console.error(`Unable to trigger the webhook for ${domain.name}`);
+             console.error(`  ⛔ Unable to trigger the Discord webhook for "${domain.name}" (${domain.url})`);
          });
 }
